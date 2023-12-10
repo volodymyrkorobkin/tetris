@@ -1,0 +1,14 @@
+body {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    background-color: dimgrey;
+
+    margin: 0;
+    padding: 0;
+}
+
+#tetris-speelveld {
+    background-color: white;
+}
